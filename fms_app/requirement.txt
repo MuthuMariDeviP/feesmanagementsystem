@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+qrcode
+xhtml2pdf
+reportlab
+Pillow
+sqlite3-binary
